@@ -90,6 +90,7 @@ namespace DBAATest2
 
 
 
+
                     SqlCommand cmd = new SqlCommand(q, con);
                     /*SqlDataAdapter da = new SqlDataAdapter(cmd);
                     DataTable dt = new DataTable();
